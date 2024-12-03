@@ -1,7 +1,6 @@
 # Table of contents
 
-* [README](README.md)
-* [content](content/README.md)
+* [content](README.md)
   * [c-mordern-approch](content/c-mordern-approch/README.md)
     * [C语言概述](content/c-mordern-approch/01-C语言概论.md)
     * [C语言基本概念](content/c-mordern-approch/02-C语言基本概念.md)
